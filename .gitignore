@@ -1,0 +1,15 @@
+# User-specific configurations
+.idea/*
+
+# Crashlytics configuations
+com_crashlytics_export_strings.xml
+
+*.iml
+.gradle/*
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
